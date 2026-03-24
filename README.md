@@ -13,3 +13,7 @@ ececute json_translate.py <language> where <language> is a two character cowntry
   pip install -U deep-translator requests
   wget json_translate.py <target_language>
   python3 json_translate.py  
+
+
+menzionare il creatore della lista incantesimi json
+https://gist.github.com/dmcb/4b67869f962e3adaa3d0f7e5ca8f4912
